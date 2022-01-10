@@ -23,5 +23,7 @@ And more.
  3. Set the Lunch Duration in Run Class (Int)
  4. Start the "Run" Class
 
-Example:
+---
+
+### Setup Example:
 ![Example Setup](/assets/exampleSetup.png)
