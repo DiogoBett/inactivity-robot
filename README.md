@@ -1,2 +1,27 @@
+
+![Inactivity Robot](/assets/banner.png)
+
 # inactivity-robot
-A small script called "Inactivity Robot" which moves your mouse for for you during a certain time, it is able to stop for lunch time and also shutdown your computer at the end of the day.
+
+Have you ever been shown Inactive OR Away on Teams due to waiting for a build to finish compiling?
+Or maybe you were running several pipelines at the same time and had to wait?
+The Inactivity Robot is a small script that will help you in these situations, it simulates activity on
+your computer by moving your mouse around in a certain pattern.
+And more.
+
+---
+
+### Requirements:
+ - [Java Development Kit](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) (JDK)
+ - [Integrated Development Environment](https://code.visualstudio.com/) (IDE)
+
+---
+
+### Setup & Run:
+ 1. Set the Shutdown Hour in Run Class (Int)
+ 2. Set the Lunch Hour in Run Class (Int)
+ 3. Set the Lunch Duration in Run Class (Int)
+ 4. Start the "Run" Class
+
+Example:
+![Example Setup](/assets/exampleSetup.png)
